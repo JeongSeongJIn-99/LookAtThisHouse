@@ -77,7 +77,7 @@
 ### 알림 페이지
 ![알림](https://github.com/KongSunHwan/Lath/assets/85215507/67903e5a-36c7-49f0-9ae2-9503294b9a47)
 
-### 관리자 페이지 (구현중)
+### 관리자 페이지
 ![관리자](https://github.com/KongSunHwan/Lath/assets/85215507/d5ad7a29-6fa0-46d9-b1dc-b23e7e7648b1)
 
 
